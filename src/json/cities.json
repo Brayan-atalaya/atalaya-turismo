@@ -1,0 +1,28 @@
+{
+	"cities": [
+		{
+			"id": 1,
+			"urlCode": "medellin",
+			"title": "medellin",
+			"urlImg": "https://i.ibb.co/Srys23k/1-medellin.jpg"
+		},
+		{
+			"id": 2,
+			"urlCode": "bogota",
+			"title": "bogota",
+			"urlImg": "https://i.ibb.co/d57Kjkk/2-bogota.jpg"
+		},
+		{
+			"id": 3,
+			"urlCode": "cali",
+			"title": "cali",
+			"urlImg": "https://i.ibb.co/VmkLXt9/3-cali.jpg"
+		},
+		{
+			"id": 4,
+			"urlCode": "san-andres",
+			"title": "san andres",
+			"urlImg": "https://i.ibb.co/Prd5StK/4-san-andres.jpg"
+		}
+	]
+}
